@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-kumbh-sans: "Kumbh Sans";
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lightpink: #eda0a8;
+
+  /* Paddings */
+  --padding-166xl: 185px;
+  --padding-101xl: 120px;
+}
